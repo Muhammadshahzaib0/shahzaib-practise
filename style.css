@@ -1,0 +1,16 @@
+.a{  
+    background-image: url("images/back.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100vw;
+}
+.b{
+    color: white;
+    text-align: center;
+}
+#c{
+   align-items: center;
+
+}
